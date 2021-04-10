@@ -3,7 +3,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-<title>Maven + Spring MVC</title>
+<title>vivikarthik</title>
 
 <spring:url value="/resources/core/css/hello.css" var="coreCss" />
 <spring:url value="/resources/core/css/bootstrap.min.css" var="bootstrapCss" />
@@ -40,15 +40,15 @@
 
 	<div class="row">
 		<div class="col-md-8">
-			<h2>Welcome To cloudcandy.</h2>
-			<h3>Contact @ +91-9597361516 </h3>
+			<h2>Welcome To Greens</h2>
+			<h3>Contact @ +91-9876543210 </h3>
 		</div>	
 	</div>
 
 
 	<hr>
 	<footer>
-		<p>&copy; cloudcandy 2020</p>
+		<p>&copy; greens 2021</p>
 	</footer>
 </div>
 
